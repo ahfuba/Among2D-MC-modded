@@ -50,7 +50,7 @@ Lead
 
 Lithium
 + TFMG (tfmg:lithium_ingot)
-- Wwarium
+- Warium (crusty_chunks:lithium_ingot)
 
 
 
