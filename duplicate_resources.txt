@@ -1,0 +1,59 @@
+######### The ones with + at the beginning is the main one
+
+
+Iron
++ Minecraft (minecraft:iron_ingot)
+
+Copper
++ Minecraft (minecraft:copper_ingot)
+
+Gold
++ Minecraft (minecraft:gold_ingot)
+
+Steel
++ TFMG (tfmg:steel_ingot)
+- Mekanism (mekanism:ingot_steel)
+- Warium (crusty_chunks:steel_ingot)
+- Create: Love and War (createloveandwar:steel_ingot)
+
+Tungsten
++ Create: Love and War (createloveandwar:tungsten)
+
+Rose Gold
++ MCA (mca:rose_gold_ingot)
+- Cosmetic Armours (cosmeticarmoursmod:rose_gold_ingot)
+
+Brass
++ Create (create:brass_ingot)
+- Warium (crusty_chunks:brass_ingot)
+
+Uranium
++ Mekanism (mekanism:ingot_uranium)
+- Warium (crusty_chunks:uranium_ingot)
+
+Nickel
++ TFMG (tfmg:nickel_ingot)
+- Create: Love and War (createloveandwar:nickel_ingot)
+
+Zinc
++ Create (create:zinc_ingot)
+- Warium (crusty_chunks:zinc_ingot)
+
+Aluminum
++ TFMG (tfmg:aluminum_ingot)
+- Warium (crusty_chunks:aluminum_ingot)
+
+Lead
++ TFMG (tfmg:lead_ingot)
+- Mekanism (mekanism:ingot_lead)
+- Warium (crusty_chunks:lead_ingot)
+
+Lithium
++ TFMG (tfmg:lithium_ingot)
+- Wwarium
+
+
+
+
+
+
