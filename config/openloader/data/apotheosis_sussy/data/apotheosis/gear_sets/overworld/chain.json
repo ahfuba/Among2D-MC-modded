@@ -1,62 +1,186 @@
 {
 	"weight": 90,
 	"quality": 2.5,
-	"mainhands": [{
-			"weight": 3,
+	"mainhands": [
+		{
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:stone_sword"
 			}
 		},
 		{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:stone_axe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
-				"item": "minecraft:stone_pickaxe"
+				"item": "spartanweaponry:stone_dagger"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
-				"item": "minecraft:stone_shovel"
+				"item": "spartanweaponry:stone_parrying_dagger"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_longsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_katana"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_saber"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_rapier"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_greatsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_battle_hammer"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_warhammer"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_spear"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_halberd"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_pike"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_lance"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_battleaxe"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_flanged_mace"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_quarterstaff"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:stone_scythe"
 			}
 		}
 	],
-	"offhands": [],
-	"boots": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:chainmail_boots"
+	"offhands": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:wooden_basic_shield"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:wooden_tower_shield"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:stone_basic_shield"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:stone_tower_shield"
+			}
 		}
-	}],
-	"leggings": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:chainmail_leggings"
+	],
+	"boots": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:chainmail_boots"
+			}
 		}
-	}],
-	"chestplates": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:chainmail_chestplate"
+	],
+	"leggings": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:chainmail_leggings"
+			}
 		}
-	}],
-	"helmets": [{
-		"weight": 3,
-		"stack": {
-			"item": "minecraft:chainmail_helmet"
+	],
+	"chestplates": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:chainmail_chestplate"
+			}
 		}
-	},
-	{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:turtle_helmet"
+	],
+	"helmets": [
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:chainmail_helmet"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:turtle_helmet"
+			}
 		}
-	}],
+	],
 	"tags": [
 		"overworld"
 	]

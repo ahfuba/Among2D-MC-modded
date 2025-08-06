@@ -1,42 +1,59 @@
 {
 	"weight": 70,
-	"mainhands": [{
-			"weight": 3,
+	"mainhands": [
+		{
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:bow"
 			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:diamond_longbow"
+			}
 		}
 	],
-	"offhands": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:shield"
+	"offhands": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:shield"
+			}
 		}
-	}],
-	"boots": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:diamond_boots"
+	],
+	"boots": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:diamond_boots"
+			}
 		}
-	}],
-	"leggings": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:diamond_leggings"
+	],
+	"leggings": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:diamond_leggings"
+			}
 		}
-	}],
-	"chestplates": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:diamond_chestplate"
+	],
+	"chestplates": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:diamond_chestplate"
+			}
 		}
-	}],
-	"helmets": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:diamond_helmet"
+	],
+	"helmets": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:diamond_helmet"
+			}
 		}
-	}],
+	],
 	"tags": [
 		"the_end_bow"
 	]

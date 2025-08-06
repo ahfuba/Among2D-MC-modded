@@ -13,7 +13,7 @@
 	"dimensions": [
 		"minecraft:overworld"
 	],
-	"affixed": false,
+	"affixed": true,
 	"nbt": {
 		"IsScreamingGoat": true,
 		"HasLeftHorn": true,
@@ -21,12 +21,20 @@
 	},
 	"stats": {
 		"enchant_chance": 0.25,
-		"enchantment_levels": [12, 8, 20, 14],
-		"effects": [{
-			"effect": "minecraft:fire_resistance",
-			"chance": 1.0
-		}],
-		"attribute_modifiers": [{
+		"enchantment_levels": [
+			12,
+			8,
+			20,
+			14
+		],
+		"effects": [
+			{
+				"effect": "minecraft:fire_resistance",
+				"chance": 1.0
+			}
+		],
+		"attribute_modifiers": [
+			{
 				"attribute": "minecraft:generic.max_health",
 				"operation": "ADDITION",
 				"value": 4096
@@ -56,16 +64,19 @@
 			}
 		]
 	},
-	"supporting_entities": [{
-		"entity": "minecraft:sheep",
-		"nbt": {
-			"CustomName": "{\"text\":\"jeb_\"}"
-		},
-		"x": 1,
-		"y": 0,
-		"z": 1
-	}],
-	"exclusions": [{
+	"supporting_entities": [
+		{
+			"entity": "minecraft:sheep",
+			"nbt": {
+				"CustomName": "{\"text\":\"jeb_\"}"
+			},
+			"x": 1,
+			"y": 0,
+			"z": 1
+		}
+	],
+	"exclusions": [
+		{
 			"type": "apotheosis:spawn_type",
 			"spawn_types": [
 				"spawn_egg"

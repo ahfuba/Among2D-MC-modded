@@ -1,44 +1,71 @@
 {
 	"weight": 90,
 	"quality": 2.5,
-	"mainhands": [{
-			"weight": 3,
+	"mainhands": [
+		{
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:bow"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_longbow"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:leather_longbow"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:copper_longbow"
 			}
 		}
 	],
 	"offhands": [],
-	"boots": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:chainmail_boots"
+	"boots": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:chainmail_boots"
+			}
 		}
-	}],
-	"leggings": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:chainmail_leggings"
+	],
+	"leggings": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:chainmail_leggings"
+			}
 		}
-	}],
-	"chestplates": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:chainmail_chestplate"
+	],
+	"chestplates": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:chainmail_chestplate"
+			}
 		}
-	}],
-	"helmets": [{
-		"weight": 3,
-		"stack": {
-			"item": "minecraft:chainmail_helmet"
+	],
+	"helmets": [
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:chainmail_helmet"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:turtle_helmet"
+			}
 		}
-	},
-	{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:turtle_helmet"
-		}
-	}],
+	],
 	"tags": [
 		"overworld_bow"
 	]

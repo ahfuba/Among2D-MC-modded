@@ -1,60 +1,179 @@
 {
 	"weight": 120,
-	"mainhands": [{
-			"weight": 3,
+	"mainhands": [
+		{
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:golden_sword"
 			}
 		},
 		{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:golden_axe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:golden_pickaxe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:golden_shovel"
 			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_dagger"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_parrying_dagger"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_longsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_katana"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_saber"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_rapier"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_greatsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_battle_hammer"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_warhammer"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_spear"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_halberd"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_pike"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_lance"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_battleaxe"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_flanged_mace"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_quarterstaff"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:golden_scythe"
+			}
 		}
 	],
-	"offhands": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:shield"
+	"offhands": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:golden_basic_shield"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:golden_tower_shield"
+			}
 		}
-	}],
-	"boots": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:golden_boots"
+	],
+	"boots": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:golden_boots"
+			}
 		}
-	}],
-	"leggings": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:golden_leggings"
+	],
+	"leggings": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:golden_leggings"
+			}
 		}
-	}],
-	"chestplates": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:golden_chestplate"
+	],
+	"chestplates": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:golden_chestplate"
+			}
 		}
-	}],
-	"helmets": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:golden_helmet"
+	],
+	"helmets": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:golden_helmet"
+			}
 		}
-	}],
+	],
 	"tags": [
 		"the_nether"
 	]
