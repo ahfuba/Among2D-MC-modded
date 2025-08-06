@@ -1,55 +1,179 @@
 {
 	"weight": 100,
-	"mainhands": [{
-			"weight": 3,
+	"mainhands": [
+		{
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:wooden_sword"
 			}
 		},
 		{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:wooden_axe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:wooden_pickaxe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:wooden_shovel"
 			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_dagger"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_parrying_dagger"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_longsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_katana"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_saber"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_rapier"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_greatsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_battle_hammer"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_warhammer"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_spear"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_halberd"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_pike"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_lance"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_battleaxe"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_flanged_mace"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_quarterstaff"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_scythe"
+			}
 		}
 	],
-	"offhands": [],
-	"boots": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_boots"
+	"offhands": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:wooden_basic_shield"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanshields:wooden_tower_shield"
+			}
 		}
-	}],
-	"leggings": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_leggings"
+	],
+	"boots": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_boots"
+			}
 		}
-	}],
-	"chestplates": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_chestplate"
+	],
+	"leggings": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_leggings"
+			}
 		}
-	}],
-	"helmets": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_helmet"
+	],
+	"chestplates": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_chestplate"
+			}
 		}
-	}],
+	],
+	"helmets": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_helmet"
+			}
+		}
+	],
 	"tags": [
 		"overworld"
 	]

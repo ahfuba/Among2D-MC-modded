@@ -1,37 +1,58 @@
 {
 	"weight": 100,
-	"mainhands": [{
+	"mainhands": [
+		{
 			"weight": 1,
 			"stack": {
 				"item": "minecraft:bow"
 			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:wooden_longbow"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "spartanweaponry:leather_longbow"
+			}
 		}
 	],
 	"offhands": [],
-	"boots": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_boots"
+	"boots": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_boots"
+			}
 		}
-	}],
-	"leggings": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_leggings"
+	],
+	"leggings": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_leggings"
+			}
 		}
-	}],
-	"chestplates": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_chestplate"
+	],
+	"chestplates": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_chestplate"
+			}
 		}
-	}],
-	"helmets": [{
-		"weight": 1,
-		"stack": {
-			"item": "minecraft:leather_helmet"
+	],
+	"helmets": [
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:leather_helmet"
+			}
 		}
-	}],
+	],
 	"tags": [
 		"overworld_bow"
 	]

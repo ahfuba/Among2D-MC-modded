@@ -1,0 +1,102 @@
+{
+    "weight": 90,
+    "quality": 2.5,
+    "mainhands": [
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:crossbow"
+            }
+        }
+    ],
+    "offhands": [],
+    "boots": [
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:chainmail_boots"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:iron_boots"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:leather_boots"
+            }
+        }
+    ],
+    "leggings": [
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:chainmail_leggings"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:iron_leggings"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:leather_leggings"
+            }
+        }
+    ],
+    "chestplates": [
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:chainmail_chestplate"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:iron_chestplate"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:leather_chestplate"
+            }
+        }
+    ],
+    "helmets": [
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:chainmail_helmet"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:turtle_helmet"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:iron_helmet"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "minecraft:leather_helmet"
+            }
+        }
+    ],
+    "tags": [
+        "overworld_crossbow"
+    ]
+}

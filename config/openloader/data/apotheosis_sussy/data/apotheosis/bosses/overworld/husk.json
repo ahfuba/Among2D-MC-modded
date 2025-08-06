@@ -7,7 +7,8 @@
 		"height": 1.95
 	},
 	"valid_gear_sets": [
-		"#overworld"
+		"#overworld",
+		"#mixed_equipment"
 	],
 	"dimensions": [
 		"minecraft:overworld"

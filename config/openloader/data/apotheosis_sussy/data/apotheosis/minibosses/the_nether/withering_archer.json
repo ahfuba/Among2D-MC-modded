@@ -13,26 +13,36 @@
 	"dimensions": [
 		"minecraft:the_nether"
 	],
-	"affixed": false,
+	"affixed": true,
 	"nbt": {
-		"Passengers": [{
-			"id": "minecraft:area_effect_cloud",
-			"Potion": "apotheosis:wither",
-			"Duration": 200000,
-			"Radius": 2.5,
-			"ReapplicationDelay": 20,
-			"Particle": "minecraft:entity_effect",
-			"WaitTime": 0
-		}]
+		"Passengers": [
+			{
+				"id": "minecraft:area_effect_cloud",
+				"Potion": "apotheosis:wither",
+				"Duration": 200000,
+				"Radius": 2.5,
+				"ReapplicationDelay": 20,
+				"Particle": "minecraft:entity_effect",
+				"WaitTime": 0
+			}
+		]
 	},
 	"stats": {
 		"enchant_chance": 0.35,
-		"enchantment_levels": [12, 8, 20, 14],
-		"effects": [{
-			"effect": "minecraft:fire_resistance",
-			"chance": 1.0
-		}],
-		"attribute_modifiers": [{
+		"enchantment_levels": [
+			12,
+			8,
+			20,
+			14
+		],
+		"effects": [
+			{
+				"effect": "minecraft:fire_resistance",
+				"chance": 1.0
+			}
+		],
+		"attribute_modifiers": [
+			{
 				"attribute": "minecraft:generic.max_health",
 				"operation": "ADDITION",
 				"value": 20
@@ -54,10 +64,14 @@
 			}
 		]
 	},
-	"exclusions": [{
-		"type": "apotheosis:spawn_type",
-		"spawn_types": [
-			"spawn_egg", "spawner", "mob_summoned"
-		]
-	}]
+	"exclusions": [
+		{
+			"type": "apotheosis:spawn_type",
+			"spawn_types": [
+				"spawn_egg",
+				"spawner",
+				"mob_summoned"
+			]
+		}
+	]
 }

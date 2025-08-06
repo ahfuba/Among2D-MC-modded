@@ -6,24 +6,31 @@
 	"entities": [
 		"minecraft:enderman"
 	],
-	"valid_gear_sets": [
-	],
+	"valid_gear_sets": [],
 	"dimensions": [
 		"minecraft:the_end"
 	],
-	"affixed": false,
+	"affixed": true,
 	"nbt": {
 		"Passengers": []
 	},
 	"stats": {
 		"enchant_chance": 0.35,
-		"enchantment_levels": [12, 8, 20, 14],
-		"effects": [{
-			"effect": "minecraft:speed",
-			"amplifier": 1,
-			"chance": 1.0
-		}],
-		"attribute_modifiers": [{
+		"enchantment_levels": [
+			12,
+			8,
+			20,
+			14
+		],
+		"effects": [
+			{
+				"effect": "minecraft:speed",
+				"amplifier": 1,
+				"chance": 1.0
+			}
+		],
+		"attribute_modifiers": [
+			{
 				"attribute": "minecraft:generic.max_health",
 				"operation": "ADDITION",
 				"value": 20
