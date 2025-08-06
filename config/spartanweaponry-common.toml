@@ -439,7 +439,7 @@
 	#Range: 1 ~ 100000
 	durability = 1024
 	#Set to true to disable platinum weapons
-	disable = false
+	disable = true
 
 [aluminum]
 	#Base Damage for aluminum weapons
@@ -449,7 +449,7 @@
 	#Range: 1 ~ 100000
 	durability = 400
 	#Set to true to disable aluminum weapons
-	disable = false
+	disable = true
 
 [explosives]
 	#Disables all recipes for explosive related items
