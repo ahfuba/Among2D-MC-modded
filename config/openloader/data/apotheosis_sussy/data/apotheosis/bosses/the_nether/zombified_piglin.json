@@ -39,6 +39,11 @@
 					}
 				},
 				{
+					"attribute": "forge:step_height_addition",
+					"operation": "ADDITION",
+					"value": 1.6
+				},
+				{
 					"attribute": "attributeslib:life_steal",
 					"operation": "ADDITION",
 					"value": 0.25

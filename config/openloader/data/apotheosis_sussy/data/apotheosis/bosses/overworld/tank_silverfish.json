@@ -7,7 +7,8 @@
         "height": 0.3
     },
     "valid_gear_sets": [
-        "#overworld"
+        "#overworld",
+        "mixed_equipment"
     ],
     "dimensions": [
         "minecraft:overworld"
@@ -39,6 +40,11 @@
                         "steps": 10,
                         "step": 30
                     }
+                },
+                {
+                    "attribute": "forge:step_height_addition",
+                    "operation": "ADDITION",
+                    "value": 1.6
                 },
                 {
                     "attribute": "attributeslib:life_steal",
