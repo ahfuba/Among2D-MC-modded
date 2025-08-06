@@ -60,37 +60,5 @@ ServerEvents.highPriorityData(event => {
             "salt": 2089367773
         }
     })
-
-    // Mekanism
-    event.removeFeature('mekanism:ore_lead');
-    event.removePlacement('mekanism:ore_lead');
-
-    // Crusty Chunks
-    event.removeFeature('crusty_chunks:lead_ore');
-    event.removePlacement('crusty_chunks:lead_ore');
-
-    event.removeFeature('crusty_chunks:deepslate_lead_ore');
-    event.removePlacement('crusty_chunks:deepslate_lead_ore');
-
-    event.removeFeature('crusty_chunks:bauxite');
-    event.removePlacement('crusty_chunks:bauxite');
-
-    event.removeFeature('crusty_chunks:uranium_ore');
-    event.removePlacement('crusty_chunks:uranium_ore');
-
-    event.removeFeature('crusty_chunks:nickel_ore');
-    event.removePlacement('crusty_chunks:nickel_ore');
-
-    event.removeFeature('crusty_chunks:zinc_ore');
-    event.removePlacement('crusty_chunks:zinc_ore');
-
-    event.removeFeature('crusty_chunks:sulfur_ore');
-    event.removePlacement('crusty_chunks:sulfur_ore');
-
-    // Create: Love and War (örnek)
-    event.removeFeature('createloveandwar:oil_well_placed');
-    event.removePlacement('createloveandwar:oil_well_placed');
-
-    event.removeFeature('createloveandwar:oil_sand_placed');
-    event.removePlacement('createloveandwar:oil_sand_placed');
 });
+
