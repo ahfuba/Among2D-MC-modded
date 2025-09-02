@@ -1,0 +1,16 @@
+filename = 'NotEnoughTrials-1.21-v4.0.jar'
+name = 'Not Enough Trials'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '818b12b88754d108bdcdf95f836dcaa147203834'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6862659
+project-id = 1126706

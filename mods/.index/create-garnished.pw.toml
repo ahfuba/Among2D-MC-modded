@@ -1,0 +1,16 @@
+filename = 'garnished-2.1.6.5+1.21.1-neoforged.jar'
+name = 'Create: Garnished'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '464d23ae2c4084942b2a681d6a1bc338610645f0c91d781fe7f2069fb07075c2a030096b192d720407e70aa3dfed67d8567c85feb48ca15bce72cc21f72ce0b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6e2SlzR4/versions/5Xn13yzh/garnished-2.1.6.5%2B1.21.1-neoforged.jar'
+
+[update.modrinth]
+mod-id = '6e2SlzR4'
+version = '5Xn13yzh'

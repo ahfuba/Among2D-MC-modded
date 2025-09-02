@@ -1,1 +1,0 @@
-event.recipes.mekanism.enriching("crusty_chunks:uranium_enriched_dust", "crusty_chunks:uranium_neutral_dust");

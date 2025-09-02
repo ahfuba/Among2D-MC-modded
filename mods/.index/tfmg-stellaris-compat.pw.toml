@@ -1,0 +1,16 @@
+filename = 'tfmg_stellaris_compat-1.0.0.jar'
+name = 'Create: TFMG - Stellaris Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b81ee2216317922cd44097f708f67cf1405e0f0eb9c3cb98d9c4271e141483526ba2c45bbff421a78db6b09137b7029094151a773a51a7bb0a955f59dc714466'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x6WYN4Ks/versions/pAVlMEcX/tfmg_stellaris_compat-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'x6WYN4Ks'
+version = 'pAVlMEcX'

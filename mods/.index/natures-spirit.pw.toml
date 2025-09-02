@@ -1,0 +1,16 @@
+filename = 'natures_spirit-2.2.5-1.21.1.jar'
+name = "Nature's Spirit"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ec00ee73395b7abdc9f767e0f68bc8dfd3c38db6b7a5465d56b55ba696b93b50f26faeb4d958e4b5a5f18df3d0f6c5956e312aeea2280c74672465bb88f31246'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WBvnqHfV/versions/f1LTClIR/natures_spirit-2.2.5-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'WBvnqHfV'
+version = 'f1LTClIR'
