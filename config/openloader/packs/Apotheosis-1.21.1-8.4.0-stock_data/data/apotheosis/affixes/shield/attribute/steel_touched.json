@@ -15,7 +15,7 @@
     "operation": "add_multiplied_base",
     "values": {
         "apotheosis:rare": {
-            "min": 0.15,
+            "min": 0.10,
             "max": 0.2
         },
         "apotheosis:epic": {
@@ -24,7 +24,7 @@
         },
         "apotheosis:mythic": {
             "min": 0.2,
-            "max": 0.3
+            "max": 0.25
         }
     }
 }

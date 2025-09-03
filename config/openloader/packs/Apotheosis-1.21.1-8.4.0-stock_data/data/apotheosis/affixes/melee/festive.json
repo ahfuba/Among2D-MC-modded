@@ -16,7 +16,7 @@
         "apotheosis:epic": {
             "chance": {
                 "min": 0.02,
-                "max": 0.05,
+                "max": 0.04,
                 "step": 0.005
             },
             "rolls": 20

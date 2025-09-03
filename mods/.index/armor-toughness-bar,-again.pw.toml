@@ -1,0 +1,16 @@
+filename = 'toughnessbar-1.21.1-9.jar'
+name = 'Armor Toughness Bar, Again'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '76bf0a51b0cbbf0c1195db0320c741ddcd9b943d667da926b80830bbdb30ae2a0ed88f636c86323a6bd14805e5e8682b3f8eef7b0fa09ff062db272eb5297223'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QbhKvWXw/versions/9473L0CF/toughnessbar-1.21.1-9.jar'
+
+[update.modrinth]
+mod-id = 'QbhKvWXw'
+version = '9473L0CF'

@@ -5,7 +5,7 @@
             "minecraft:the_nether"
         ]
     },
-    "min_purity": "flawed",
+    "min_purity": "normal",
     "unique": true,
     "weights": {
         "ascent": {
@@ -51,9 +51,7 @@
             "enchantment": "apothic_enchanting:berserkers_fury",
             "gem_class": "apotheosis:chestplate",
             "values": {
-                "flawed": 1,
-                "normal": 1,
-                "flawless": 2,
+                "flawless": 1,
                 "perfect": 2
             }
         },
@@ -62,10 +60,8 @@
             "enchantment": "minecraft:efficiency",
             "gem_class": "apotheosis:breaker",
             "values": {
-                "flawed": 1,
-                "normal": 2,
-                "flawless": 2,
-                "perfect": 3
+                "flawless": 1,
+                "perfect": 2
             }
         },
         {
@@ -74,8 +70,7 @@
             "gem_class": "apotheosis:helmet",
             "operation": "add_multiplied_total",
             "values": {
-                "flawed": 0.5,
-                "normal": 0.625,
+                "normal": 0.5,
                 "flawless": 0.75,
                 "perfect": 0.9
             }

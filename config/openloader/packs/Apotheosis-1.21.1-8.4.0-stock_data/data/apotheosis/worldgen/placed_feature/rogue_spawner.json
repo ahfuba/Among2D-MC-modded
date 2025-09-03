@@ -1,12 +1,15 @@
 {
-	"forge:conditions": [{
-		"type": "apotheosis:module",
-		"module": "adventure"
-	}],
+	"forge:conditions": [
+		{
+			"type": "apotheosis:module",
+			"module": "adventure"
+		}
+	],
 	"feature": "apotheosis:rogue_spawner",
-	"placement": [{
+	"placement": [
+		{
 			"type": "minecraft:count",
-			"count": 65
+			"count": 25
 		},
 		{
 			"type": "minecraft:in_square"

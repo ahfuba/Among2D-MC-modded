@@ -36,11 +36,7 @@
                 "max": 140.0,
                 "step": 20.0
             },
-            "amplifier": {
-                "min": 0.0,
-                "max": 1.0,
-                "step": 0.125
-            },
+            "amplifier": 0.0,
             "cooldown": 40
         },
         "apotheosis:mythic": {
@@ -49,11 +45,7 @@
                 "max": 140.0,
                 "step": 20.0
             },
-            "amplifier": {
-                "min": 0.0,
-                "max": 1.0,
-                "step": 0.25
-            },
+            "amplifier": 0.0,
             "cooldown": 40
         }
     }

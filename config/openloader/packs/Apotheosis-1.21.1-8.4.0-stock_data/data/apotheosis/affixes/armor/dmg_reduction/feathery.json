@@ -23,15 +23,15 @@
         },
         "apotheosis:rare": {
             "min": 0.15,
-            "max": 0.25
+            "max": 0.175
         },
         "apotheosis:epic": {
             "min": 0.15,
-            "max": 0.25
+            "max": 0.20
         },
         "apotheosis:mythic": {
             "min": 0.15,
-            "max": 0.4
+            "max": 0.3
         }
     }
 }

@@ -1,12 +1,15 @@
 {
-	"forge:conditions": [{
-		"type": "apotheosis:module",
-		"module": "adventure"
-	}],
+	"forge:conditions": [
+		{
+			"type": "apotheosis:module",
+			"module": "adventure"
+		}
+	],
 	"feature": "apotheosis:boss_dungeon_2",
-	"placement": [{
+	"placement": [
+		{
 			"type": "minecraft:count",
-			"count": 8
+			"count": 1
 		},
 		{
 			"type": "minecraft:in_square"
